@@ -3,11 +3,11 @@ FBX Model Viewer
 
 - Blinn-Phong shading model
 - Diffuse map, Normal map, Specular map
-- 3 omni lights (dynamic)
+- Omni lights (dynamic)
 
 Technologies: 
 - Visual Studio 2019
-- Ñ++ 11
+- C++ 11
 - OpenGL 3.3 
 - GLEW (OpenGL Extension Wrangler Library) 
 - GLFW (OpenGL Framework) 
