@@ -1,5 +1,5 @@
 Description:
-FBX Model Viewer
+3d Model Viewer
 
 - Blinn-Phong shading model
 - Diffuse map, Normal map, Specular map
